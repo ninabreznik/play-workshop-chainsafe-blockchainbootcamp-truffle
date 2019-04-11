@@ -1,47 +1,18 @@
 {
-  "title": "Blockchain bootcamp - Dapp overview and use cases",
+  "title": "Blockchain bootcamp - Truffle Overview",
   "icon": "https://chainsafe.io/assets/images/ChainSafe_logo.png",
   "chat": "https://gitter.im/wizardamigosinstitute/program/~embed",
   "lessons": [
   {
-    "title": "Ethereum Dapp Stacks",
-    "lesson": "src/lessons/overview.pdf",
-    "info": "src/info/main.md"
-  }, {
-    "title": "Identity",
-    "lesson": "src/lessons/identity.pdf",
-    "info": "src/info/main.md"
-  }, {
-    "title": "Identity - talk",
-    "lesson": "https://www.youtube.com/embed/QpaTOvAhLR4",
-    "info": "src/info/identity.md"
-  }, {
-    "title": "Rights Management",
-    "lesson": "src/lessons/rights-management.pdf",
-    "info": "src/info/main.md"
-  }, {
-    "title": "Try out the code",
-    "lesson": "src/lessons/code.pdf",
-    "tool": "https://play.ethereum.org/editor-solidity/",
-    "info": "src/info/code.md"
-  }, {
-    "title": "Rights Management - example",
-    "lesson": "https://www.youtube.com/embed/GFSknHNquOQ",
-    "info": "src/info/ujo.md"
-  }, {
-    "title": "Social media - examples",
-    "lesson": "src/lessons/social-media.pdf",
-    "info": "src/info/main.md"
-  }, {
-    "title": "Akasha - social media Dapp example",
-    "lesson": "https://www.youtube.com/embed/GFSknHNquOQ",
-    "info": "src/info/akasha.md"
+    "title": "",
+    "lesson": "src/truffle.pdf",
+    "info": "src/main.md"
   }
  ],
   "needs": [
-    "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-introduction/"
+    "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-introduction/",
+    "https://ninabreznik.github.io/play-workshop-chainsafe-blockchainbootcamp-ethereum-focused/"
   ],
   "unlocks": [
-
   ]
 }
